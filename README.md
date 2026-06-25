@@ -77,7 +77,7 @@ Saya adalah seorang Frontend Engineer yang berfokus pada pembangunan antarmuka w
 ## 🤝 Get in Touch
 
 <p align="left">
-  <a href="https://instagram.com/[andriantomico]" target="_blank">
+  <a href="https://instagram.com/andriantomico" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://link-portfolio-kamu.com" target="_blank">
