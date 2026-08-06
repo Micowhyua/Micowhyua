@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO GIF BANNER -->
-<img src=" https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGplNm8wbzh1ZnEzNnl0dDhqaDNzb3JnanhkdjV1cGQwZnEydDBrciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PVWgPwpLr7Kdx6Raxm/giphy.gif" width="60%" alt="Uchiha Obito Header" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGplNm8wbzh1ZnEzNnl0dDhqaDNzb3JnanhkdjV1cGQwZnEydDBrciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PVWgPwpLr7Kdx6Raxm/giphy.gif" width="60%" alt="Header GIF" />
 
 <br/>
 
@@ -72,6 +72,10 @@ Saya adalah seorang Frontend Engineer yang berfokus pada pembangunan antarmuka w
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGplNm8wbzh1ZnEzNnl0dDhqaDNzb3JnanhkdjV1cGQwZnEydDBrciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OyEISqAwcsu85xUtkW/giphy.gif" width="97%" alt="Stats GIF" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=username-github-kamu&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff" alt="GitHub Stats" width="48%" />
