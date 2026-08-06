@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO GIF BANNER -->
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWhnbnppYzhvdjVyczRwb2k2NTkxOGx0MGhrMzQxZXI1ZGkxc2prZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HoNrYtrwKgaSA/giphy.gif" width="60%" alt="Uchiha Obito Header" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eW56cmpmOWM5d2JiMDh1dmRsNXplejZ3OHM0Yzd0dmoyM3QwcGNyMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12u8LwNHoEXMOY/giphy.gif" width="60%" alt="Uchiha Obito Header" />
 
 <br/>
 
