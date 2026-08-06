@@ -64,25 +64,11 @@ Saya adalah seorang Frontend Engineer yang berfokus pada pembangunan antarmuka w
 ### 🎨 Design & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" alt=itHub" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username-github-kamu&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-github-kamu&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a1a1aa" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username-github-kamu&theme=dark&hide_border=true&background=000000&title=ffffff&text=a1a1aa&stroke=ffffff" alt="GitHub Streak" width="97%" />
-</p>
-
----
 
 ## 🤝 Get in Touch
 
