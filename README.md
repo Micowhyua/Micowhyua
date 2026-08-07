@@ -3,6 +3,7 @@
 <!-- HERO GIF BANNER -->
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eW56cmpmOWM5d2JiMDh1dmRsNXplejZ3OHM0Yzd0dmoyM3QwcGNyMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12u8LwNHoEXMOY/giphy.gif" width="60%" alt="Uchiha Obito Header" />
 
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWFwZnlrcTc5eTJvYnZka3RqY3F0cndubnhjbDYydm1qYmRlNGl1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MyCIPSVVuF2J2yAowN/giphy.gif" width="60%" alt="Uchiha Obito Header" />
 <br/>
 
 # Hi there, I'm Miko Wahyu Andrianto 👋
